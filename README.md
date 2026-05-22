@@ -10,8 +10,6 @@ Best of all? **It is 100% private.** All data stays entirely on your own device 
 
 <a href="https://www.producthunt.com/products/tabdelta?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-tabdelta" target="_blank" rel="noopener noreferrer"><img alt="tabDelta - Browser shield alerting you before heavy tabs freeze your PC | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1153278&amp;theme=neutral&amp;t=1779445475597"></a>
 
----
-
 ## 💡 Key Features That Solve Your Daily Hassles
 
 ### 1. Instant Alerts for Rogue Tabs (RAM & Internet Hogs)
@@ -31,7 +29,6 @@ Ever wonder why your internet data is running out so fast? tabDelta features a v
 * See exactly how many Megabytes (MB) each tab downloads and uploads during your browsing session.
 * Automatically organizes website traffic into helpful buckets like Streaming Video, Images, or Hidden Tracking Scripts so you can spot bandwidth hogs.
 
----
 
 ## 🔒 Our Absolute Privacy Commitment
 
@@ -41,7 +38,6 @@ tabDelta was built for personal insight, not surveillance. Because your data bel
 * **No Data Selling:** Because your data never leaves your physical machine, it is physically impossible for us to track, share, or sell your browsing history to third-party advertisers or data brokers.
 * **Safe Cleanups:** The extension features an automatic 90-day cleanup loop to keep your local drive light, alongside a one-click "Clear Data" button to hard-wipe everything instantly.
 
----
 
 ## 📄 Legal & Compliance
 To review our official, developer-compliant policy frameworks required by the Chrome Web Store, please read our full policy document directly here:
