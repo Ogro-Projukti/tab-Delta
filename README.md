@@ -8,6 +8,8 @@ tabDelta turns your browser into a clean performance dashboard. It acts just lik
 
 Best of all? **It is 100% private.** All data stays entirely on your own device and never touches the cloud.
 
+<a href="https://www.producthunt.com/products/tabdelta?embed=true&amp;utm_source=badge-featured&amp;utm_medium=badge&amp;utm_campaign=badge-tabdelta" target="_blank" rel="noopener noreferrer"><img alt="tabDelta - Browser shield alerting you before heavy tabs freeze your PC | Product Hunt" width="250" height="54" src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1153278&amp;theme=neutral&amp;t=1779445475597"></a>
+
 ---
 
 ## 💡 Key Features That Solve Your Daily Hassles
